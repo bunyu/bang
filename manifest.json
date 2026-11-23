@@ -1,0 +1,20 @@
+{
+  "short_name": "Bang!",
+  "name": "Bang! online",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#be8c6a"
+}

@@ -1,0 +1,1222 @@
+{
+ "cards": {
+  "SALOON": [
+   "cards/SALOON.png"
+  ],
+  "GATLING": [
+   "cards/GATLING.png"
+  ],
+  "PUNCH": [
+   "cards/PUNCH.png"
+  ],
+  "WELLS_FARGO": [
+   "cards/WELLS_FARGO.png"
+  ],
+  "BRAWL": [
+   "cards/BRAWL.png"
+  ],
+  "WHISKY": [
+   "cards/WHISKY.png"
+  ],
+  "RAG_TIME": [
+   "cards/RAG_TIME.png"
+  ],
+  "SPRINGFIELD": [
+   "cards/SPRINGFIELD.png"
+  ],
+  "TEQUILA": [
+   "cards/TEQUILA.png"
+  ],
+  "STAGECOACH": [
+   "cards/STAGECOACH.png"
+  ],
+  "MISSED": [
+   "cards/MISSED_2.png",
+   "cards/MISSED.png"
+  ],
+  "PANIC": [
+   "cards/PANIC.png"
+  ],
+  "INDIANS": [
+   "cards/INDIANS.png"
+  ],
+  "BANG": [
+   "cards/BANG.png",
+   "cards/BANG_2.png"
+  ],
+  "DUEL": [
+   "cards/DUEL.png"
+  ],
+  "DODGE": [
+   "cards/DODGE.png"
+  ],
+  "CAT_BALOU": [
+   "cards/CAT_BALOU.png"
+  ],
+  "BEER": [
+   "cards/BEER.png"
+  ],
+  "GENERAL_STORE": [
+   "cards/GENERAL_STORE.png"
+  ],
+  "SCOPE": [
+   "cards/SCOPE.png"
+  ],
+  "DYNAMITE": [
+   "cards/DYNAMITE.png"
+  ],
+  "JAIL": [
+   "cards/JAIL.png"
+  ],
+  "MUSTANG": [
+   "cards/MUSTANG.png"
+  ],
+  "BARREL": [
+   "cards/BARREL.png"
+  ],
+  "BINOCULAR": [
+   "cards/BINOCULAR.png"
+  ],
+  "HIDEOUT": [
+   "cards/HIDEOUT.png"
+  ],
+  "REV_CARABINE": [
+   "cards/REV_CARABINE.png"
+  ],
+  "WINCHESTER": [
+   "cards/WINCHESTER.png"
+  ],
+  "REMINGTON": [
+   "cards/REMINGTON.png"
+  ],
+  "VOLCANIC": [
+   "cards/VOLCANIC.png"
+  ],
+  "SCHOFIELD": [
+   "cards/SCHOFIELD.png"
+  ],
+  "PONY_EXPRESS": [
+   "cards/PONY_EXPRESS.png"
+  ],
+  "SOMBRERO": [
+   "cards/SOMBRERO.png"
+  ],
+  "CONESTOGA": [
+   "cards/CONESTOGA.png"
+  ],
+  "PEPPERBOX": [
+   "cards/PEPPERBOX.png"
+  ],
+  "HOWITZER": [
+   "cards/HOWITZER.png"
+  ],
+  "TEN_GALLON_HAT": [
+   "cards/TEN_GALLON_HAT.png"
+  ],
+  "BIBLE": [
+   "cards/BIBLE.png"
+  ],
+  "KNIFE": [
+   "cards/KNIFE.png"
+  ],
+  "CANTEEN": [
+   "cards/CANTEEN.png"
+  ],
+  "BUFFALO_RIFLE": [
+   "cards/BUFFALO_RIFLE.png"
+  ],
+  "DERRINGER": [
+   "cards/DERRINGER.png"
+  ],
+  "CAN_CAN": [
+   "cards/CAN_CAN.png"
+  ],
+  "IRON_PLATE": [
+   "cards/IRON_PLATE.png"
+  ],
+  "AIM": [
+   "cards/AIM.png"
+  ],
+  "ARROW": [
+   "cards/ARROW.png"
+  ],
+  "ARSON": [
+   "cards/ARSON.png"
+  ],
+  "A_LITTLE_NIP": [
+   "cards/A_LITTLE_NIP.png"
+  ],
+  "BACKFIRE": [
+   "cards/BACKFIRE.png"
+  ],
+  "BALLAD": [
+   "cards/BALLAD.png"
+  ],
+  "BANDIDOS": [
+   "cards/BANDIDOS.png"
+  ],
+  "BANDIDOS_2": [
+   "cards/BANDIDOS_2.png"
+  ],
+  "BLOOD_PACT": [
+   "cards/BLOOD_PACT.png"
+  ],
+  "BOTTLE": [
+   "cards/BOTTLE.png"
+  ],
+  "BOUNTY": [
+   "cards/BOUNTY.png"
+  ],
+  "BRONCO": [
+   "cards/BRONCO.png"
+  ],
+  "BROTHEL": [
+   "cards/BROTHEL.png"
+  ],
+  "BULLDOG": [
+   "cards/BULLDOG.png"
+  ],
+  "CACTUS": [
+   "cards/CACTUS.png"
+  ],
+  "CAMPFIRE": [
+   "cards/CAMPFIRE.png"
+  ],
+  "CARAVAN": [
+   "cards/CARAVAN.png"
+  ],
+  "CARD_SHARPER": [
+   "cards/CARD_SHARPER.png"
+  ],
+  "CATTLE_DRIVE": [
+   "cards/CATTLE_DRIVE.png"
+  ],
+  "CHINATOWN": [
+   "cards/CHINATOWN.png"
+  ],
+  "CHUCK_WAGON": [
+   "cards/CHUCK_WAGON.png"
+  ],
+  "COFFEE": [
+   "cards/COFFEE.png"
+  ],
+  "COFFIN": [
+   "cards/COFFIN.png"
+  ],
+  "COYOTES": [
+   "cards/COYOTES.png"
+  ],
+  "DISARM": [
+   "cards/DISARM.png"
+  ],
+  "DRAGOON": [
+   "cards/DRAGOON.png"
+  ],
+  "DUCK": [
+   "cards/DUCK.png"
+  ],
+  "ESCAPE": [
+   "cards/ESCAPE.png"
+  ],
+  "ESCAPE_2": [
+   "cards/ESCAPE_2.png"
+  ],
+  "EVADED": [
+   "cards/EVADED.png"
+  ],
+  "FALCON": [
+   "cards/FALCON.png"
+  ],
+  "FANNING": [
+   "cards/FANNING.png"
+  ],
+  "FEUD": [
+   "cards/FEUD.png"
+  ],
+  "FISHING": [
+   "cards/FISHING.png"
+  ],
+  "FLINTLOCK": [
+   "cards/FLINTLOCK.png"
+  ],
+  "FLYING_BULLET": [
+   "cards/FLYING_BULLET.png"
+  ],
+  "FULL_STEAM": [
+   "cards/FULL_STEAM.png"
+  ],
+  "GEYSER": [
+   "cards/GEYSER.png"
+  ],
+  "GHOST": [
+   "cards/GHOST.png"
+  ],
+  "GHOST_2": [
+   "cards/GHOST_2.png"
+  ],
+  "GOLD_RUSH": [
+   "cards/GOLD_RUSH.png"
+  ],
+  "GRAVE_ROBBER": [
+   "cards/GRAVE_ROBBER.png"
+  ],
+  "GRIZZLY": [
+   "cards/GRIZZLY.png"
+  ],
+  "GUITAR": [
+   "cards/GUITAR.png"
+  ],
+  "HAWKEN": [
+   "cards/HAWKEN.png"
+  ],
+  "HEAVY_GRUB": [
+   "cards/HEAVY_GRUB.png"
+  ],
+  "INDIAN_GUIDE": [
+   "cards/INDIAN_GUIDE.png"
+  ],
+  "JACKALOPE": [
+   "cards/JACKALOPE.png"
+  ],
+  "KNIFE_REVOLVER": [
+   "cards/KNIFE_REVOLVER.png"
+  ],
+  "LAST_CALL": [
+   "cards/LAST_CALL.png"
+  ],
+  "LAST_WILL": [
+   "cards/LAST_WILL.png"
+  ],
+  "LEMAT": [
+   "cards/LEMAT.png"
+  ],
+  "LEMAT_2": [
+   "cards/LEMAT_2.png"
+  ],
+  "MAP": [
+   "cards/MAP.png"
+  ],
+  "MIRAGE": [
+   "cards/MIRAGE.png"
+  ],
+  "MOLOTOV": [
+   "cards/MOLOTOV.png"
+  ],
+  "MONEY_BAG": [
+   "cards/MONEY_BAG.png"
+  ],
+  "MOST_WANTED": [
+   "cards/MOST_WANTED.png"
+  ],
+  "NEXT_STOP": [
+   "cards/NEXT_STOP.png"
+  ],
+  "ON_THE_HOUSE": [
+   "cards/ON_THE_HOUSE.png"
+  ],
+  "PACK_MULE": [
+   "cards/PACK_MULE.png"
+  ],
+  "PARDNER": [
+   "cards/PARDNER.png"
+  ],
+  "POKER": [
+   "cards/POKER.png"
+  ],
+  "QUICK_SHOT": [
+   "cards/QUICK_SHOT.png"
+  ],
+  "RATTLESNAKE": [
+   "cards/RATTLESNAKE.png"
+  ],
+  "REFUND": [
+   "cards/REFUND.png"
+  ],
+  "RELOAD": [
+   "cards/RELOAD.png"
+  ],
+  "RHUM": [
+   "cards/RHUM.png"
+  ],
+  "RUST": [
+   "cards/RUST.png"
+  ],
+  "SACRIFICE": [
+   "cards/SACRIFICE.png"
+  ],
+  "SAVED": [
+   "cards/SAVED.png"
+  ],
+  "SAVED_2": [
+   "cards/SAVED_2.png"
+  ],
+  "SCORPION": [
+   "cards/SCORPION.png"
+  ],
+  "SCRAPPER": [
+   "cards/SCRAPPER.png"
+  ],
+  "SHOT": [
+   "cards/SHOT.png"
+  ],
+  "SHOTGUN": [
+   "cards/SHOTGUN.png"
+  ],
+  "SHYLOCK": [
+   "cards/SHYLOCK.png"
+  ],
+  "SLOCUM": [
+   "cards/SLOCUM.png"
+  ],
+  "SQUAW": [
+   "cards/SQUAW.png"
+  ],
+  "STAMPEDE": [
+   "cards/STAMPEDE.png"
+  ],
+  "STRONGBOX": [
+   "cards/STRONGBOX.png"
+  ],
+  "SWITCH": [
+   "cards/SWITCH.png"
+  ],
+  "TARANTULA_JUICE": [
+   "cards/TARANTULA_JUICE.png"
+  ],
+  "TAXMAN": [
+   "cards/TAXMAN.png"
+  ],
+  "TOMAHAWK": [
+   "cards/TOMAHAWK.png"
+  ],
+  "TORNADO": [
+   "cards/TORNADO.png"
+  ],
+  "TORNADO_2": [
+   "cards/TORNADO_2.png"
+  ],
+  "TRAIN_ROBBERY": [
+   "cards/TRAIN_ROBBERY.png"
+  ],
+  "TRAP": [
+   "cards/TRAP.png"
+  ],
+  "UNION_PACIFIC": [
+   "cards/UNION_PACIFIC.png"
+  ],
+  "WAR_PATH": [
+   "cards/WAR_PATH.png"
+  ],
+  "WATER_TOWER": [
+   "cards/WATER_TOWER.png"
+  ]
+ },
+ "characters": {
+  "ALEXANDER_NOON": "portrait/ALEXANDER_NOON.png",
+  "AL_PREACHER": "portrait/AL_PREACHER.png",
+  "ANNIE_VERSARY": "portrait/ANNIE_VERSARY.png",
+  "APACHE_KID": "portrait/APACHE_KID.png",
+  "BART_CASSIDY": "portrait/BART_CASSIDY.png",
+  "BASS_GREEVES": "portrait/BASS_GREEVES.png",
+  "BELLE_STAR": "portrait/BELLE_STAR.png",
+  "BENNY_BRAWLER": "portrait/BENNY_BRAWLER.png",
+  "BIG_SPENCER": "portrait/BIG_SPENCER.png",
+  "BIG_SPENCER_2": "portrait/BIG_SPENCER.png",
+  "BILL_NOFACE": "portrait/BILL_NOFACE.png",
+  "BLACK_FLOWER": "portrait/BLACK_FLOWER.png",
+  "BLACK_JACK": "portrait/BLACK_JACK.png",
+  "BLOODY_MARY": "portrait/BLOODY_MARY.png",
+  "CALAMITY_JANET": "portrait/CALAMITY_JANET.png",
+  "CALEB_BREW": "portrait/CALEB_BREW.png",
+  "CHUCK_WENGAM": "portrait/CHUCK_WENGAM.png",
+  "CLAUS_THE_SAINT": "portrait/CLAUS_THE_SAINT.png",
+  "COLORADO_BILL": "portrait/COLORADO_BILL.png",
+  "COLORADO_BILL_2": "portrait/COLORADO_BILL.png",
+  "DER_SPOT_BURST_RINGER": "portrait/DER_SPOT_BURST_RINGER.png",
+  "DOC_HOLYDAY": "portrait/DOC_HOLYDAY.png",
+  "DON_BELL": "portrait/DON_BELL.png",
+  "DUTCH_WILL": "portrait/DUTCH_WILL.png",
+  "ELENA_FUENTE": "portrait/ELENA_FUENTE.png",
+  "EL_GRINGO": "portrait/EL_GRINGO.png",
+  "EMILIANO": "portrait/EMILIANO.png",
+  "EVAN_BABBIT": "portrait/EVAN_BABBIT.png",
+  "EVELYN_SHEBANG": "portrait/EVELYN_SHEBANG.png",
+  "EVELYN_SHEBANG_2": "portrait/EVELYN_SHEBANG.png",
+  "FLINT_WESTWOOD": "portrait/FLINT_WESTWOOD.png",
+  "FRANKIE_CANTON": "portrait/FRANKIE_CANTON.png",
+  "GARY_LOOTER": "portrait/GARY_LOOTER.png",
+  "GREG_DIGGER": "portrait/GREG_DIGGER.png",
+  "GREYGORY_DECK": "portrait/GREYGORY_DECK.png",
+  "HENRY_BLOCK": "portrait/HENRY_BLOCK.png",
+  "HERB_HUNTER": "portrait/HERB_HUNTER.png",
+  "JACKY_MURIETA": "portrait/JACKY_MURIETA.png",
+  "JESSE_JONES": "portrait/JESSE_JONES.png",
+  "JIMMY_TEXAS": "portrait/JIMMY_TEXAS.png",
+  "JOHNNY_KISCH": "portrait/JOHNNY_KISCH.png",
+  "JOHN_PAIN": "portrait/JOHN_PAIN.png",
+  "JOSEY_STRONG": "portrait/JOSEY_STRONG.png",
+  "JOSE_DELGADO": "portrait/JOSE_DELGADO.png",
+  "JOSH_MCCLOUD": "portrait/JOSH_MCCLOUD.png",
+  "JOSIAH_TUNG": "portrait/JOSIAH_TUNG.png",
+  "JOURDONNAIS": "portrait/JOURDONNAIS.png",
+  "JULIE_CUTTER": "portrait/JULIE_CUTTER.png",
+  "KIT_CARLSON": "portrait/KIT_CARLSON.png",
+  "LEE_VAN_KLIFF": "portrait/LEE_VAN_KLIFF.png",
+  "LEMONADE_JIM": "portrait/LEMONADE_JIM.png",
+  "LT_MICAIAH": "portrait/LT_MICAIAH.png",
+  "LUCKY_DUKE": "portrait/LUCKY_DUKE.png",
+  "MADAME_YTO": "portrait/MADAME_YTO.png",
+  "MANUELITA": "portrait/MANUELITA.png",
+  "MEXICALI_KID": "portrait/MEXICALI_KID.png",
+  "MICK_DEFENDER": "portrait/MICK_DEFENDER.png",
+  "MICK_DEFENDER_2": "portrait/MICK_DEFENDER.png",
+  "MOLLY_STARK": "portrait/MOLLY_STARK.png",
+  "MS_ABIGAIL": "portrait/MS_ABIGAIL.png",
+  "PAT_BRENNAN": "portrait/PAT_BRENNAN.png",
+  "PAUL_REGRET": "portrait/PAUL_REGRET.png",
+  "PEDRO_RAMIREZ": "portrait/PEDRO_RAMIREZ.png",
+  "PIXIE_PETE": "portrait/PIXIE_PETE.png",
+  "PRETTY_LUZENA": "portrait/PRETTY_LUZENA.png",
+  "RADDIE_SNAKE": "portrait/RADDIE_SNAKE.png",
+  "RAY_OWE": "portrait/RAY_OWE.png",
+  "RED_RINGO": "portrait/RED_RINGO.png",
+  "ROSE_DOOLAN": "portrait/ROSE_DOOLAN.png",
+  "SALVO_THE_SHOOTER": "portrait/SALVO_THE_SHOOTER.png",
+  "SANCHO": "portrait/SANCHO.png",
+  "SEAN_MALLORY": "portrait/SEAN_MALLORY.png",
+  "SGT_BLAZE": "portrait/SGT_BLAZE.png",
+  "SHADE_OCONNOR": "portrait/SHADE_OCONNOR.png",
+  "SHANGO_BROTHERS": "portrait/SHANGO_BROTHERS.png",
+  "SID_KETCHUM": "portrait/SID_KETCHUM.png",
+  "SIMEON_PICOS": "portrait/SIMEON_PICOS.png",
+  "SLAB_THE_KILLER": "portrait/SLAB_THE_KILLER.png",
+  "STEVE_TENGO": "portrait/STEVE_TENGO.png",
+  "SUZY_LAFAYETTE": "portrait/SUZY_LAFAYETTE.png",
+  "TEQUILA_JOE": "portrait/TEQUILA_JOE.png",
+  "TEREN_KILL": "portrait/TEREN_KILL.png",
+  "TEREN_KILL_2": "portrait/TEREN_KILL.png",
+  "TUCO_FRANZISKANER": "portrait/TUCO_FRANZISKANER.png",
+  "UNCLE_WILL": "portrait/UNCLE_WILL.png",
+  "VERA_CUSTER": "portrait/VERA_CUSTER.png",
+  "VULTURE_SAM": "portrait/VULTURE_SAM.png",
+  "WILLY_THE_KID": "portrait/WILLY_THE_KID.png",
+  "YOUL_GRINNER": "portrait/YOUL_GRINNER.png",
+  "ZIPPY_ROY": "portrait/ZIPPY_ROY.png"
+ },
+ "glyphs": [
+  "1carta",
+  "2carte",
+  "3carte",
+  "allontana",
+  "avvicina",
+  "bang",
+  "barile",
+  "birra",
+  "dinamite",
+  "duello",
+  "emporio",
+  "gittata1",
+  "gittata2",
+  "gittata3",
+  "gittata4",
+  "gittata5",
+  "indianiAlt",
+  "mancato",
+  "prigione",
+  "qualsiasi",
+  "raggiungibile",
+  "saloon",
+  "scarta",
+  "tagDinamite",
+  "tagFortuna",
+  "tagIndiani",
+  "tutti",
+  "volcanic",
+  "whisky"
+ ],
+ "hud": [
+  "jail",
+  "dynamite",
+  "duel",
+  "reticle",
+  "targeted",
+  "luck",
+  "bang",
+  "missed",
+  "click",
+  "puff",
+  "burst",
+  "streak",
+  "emote_happy",
+  "emote_angry",
+  "emote_outlaw",
+  "emote_renegade",
+  "emote_deputy",
+  "emote_trophy",
+  "role_renegade",
+  "role_outlaw",
+  "role_sheriff",
+  "role_deputy"
+ ],
+ "felt": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "sfx": [
+  "achiev_bar_enter",
+  "achiev_bar_exit",
+  "bad_luck",
+  "beer",
+  "bible",
+  "binocular",
+  "brawl",
+  "bullet_zip",
+  "card_comes",
+  "card_goes_away",
+  "card_mescola",
+  "card_raise",
+  "card_switch",
+  "card_turn",
+  "character_ability_off",
+  "character_ability_on",
+  "click",
+  "click_off",
+  "click_on",
+  "cock_remington",
+  "cock_rev_carabine",
+  "cock_schofield",
+  "cock_volcanic",
+  "cock_winchester",
+  "colt45_bang_1",
+  "death",
+  "duel",
+  "dynamite_fuse_blow",
+  "dynamite_fuse_off",
+  "dynamite_passed",
+  "emporio",
+  "fufu",
+  "good_luck",
+  "hideout",
+  "horse",
+  "indians",
+  "ironplate",
+  "jail_lock",
+  "jail_played",
+  "jail_unlock",
+  "jingle_lose",
+  "jingle_unlock",
+  "jingle_win",
+  "knife",
+  "life_minus",
+  "life_plus",
+  "menu_click",
+  "missed",
+  "missed_hat",
+  "page_back",
+  "page_back2",
+  "pass_turn",
+  "pass_turn_slider",
+  "pistol_cock",
+  "punch",
+  "ring",
+  "roulette",
+  "scope",
+  "shot_colt45",
+  "shot_derringer",
+  "shot_gatling",
+  "shot_hound_rifle",
+  "shot_howitzer",
+  "shot_pepperbox",
+  "shot_remington",
+  "shot_rev_carabine",
+  "shot_schofield",
+  "shot_springfield",
+  "shot_volcanic",
+  "shot_winchester",
+  "snare_roll",
+  "stagecoach",
+  "tac",
+  "target_comes",
+  "tic",
+  "trillo"
+ ],
+ "music": [
+  "duello_loop",
+  "gameplay_loop",
+  "gameplay_loop_casino",
+  "gameplay_loop_osteria",
+  "menu_loop"
+ ],
+ "help": [
+  "English",
+  "de",
+  "es",
+  "fr",
+  "it",
+  "vi"
+ ],
+ "menu": true,
+ "files": [
+  "back.png",
+  "cards/AIM.png",
+  "cards/ARROW.png",
+  "cards/ARSON.png",
+  "cards/A_LITTLE_NIP.png",
+  "cards/BACKFIRE.png",
+  "cards/BALLAD.png",
+  "cards/BANDIDOS.png",
+  "cards/BANDIDOS_2.png",
+  "cards/BANG.png",
+  "cards/BANG_2.png",
+  "cards/BARREL.png",
+  "cards/BEER.png",
+  "cards/BIBLE.png",
+  "cards/BINOCULAR.png",
+  "cards/BLOOD_PACT.png",
+  "cards/BOTTLE.png",
+  "cards/BOUNTY.png",
+  "cards/BRAWL.png",
+  "cards/BRONCO.png",
+  "cards/BROTHEL.png",
+  "cards/BUFFALO_RIFLE.png",
+  "cards/BULLDOG.png",
+  "cards/CACTUS.png",
+  "cards/CAMPFIRE.png",
+  "cards/CANTEEN.png",
+  "cards/CAN_CAN.png",
+  "cards/CARAVAN.png",
+  "cards/CARD_SHARPER.png",
+  "cards/CATTLE_DRIVE.png",
+  "cards/CAT_BALOU.png",
+  "cards/CHINATOWN.png",
+  "cards/CHUCK_WAGON.png",
+  "cards/COFFEE.png",
+  "cards/COFFIN.png",
+  "cards/CONESTOGA.png",
+  "cards/COYOTES.png",
+  "cards/DERRINGER.png",
+  "cards/DISARM.png",
+  "cards/DODGE.png",
+  "cards/DRAGOON.png",
+  "cards/DUCK.png",
+  "cards/DUEL.png",
+  "cards/DYNAMITE.png",
+  "cards/ESCAPE.png",
+  "cards/ESCAPE_2.png",
+  "cards/EVADED.png",
+  "cards/FALCON.png",
+  "cards/FANNING.png",
+  "cards/FEUD.png",
+  "cards/FISHING.png",
+  "cards/FLINTLOCK.png",
+  "cards/FLYING_BULLET.png",
+  "cards/FULL_STEAM.png",
+  "cards/GATLING.png",
+  "cards/GENERAL_STORE.png",
+  "cards/GEYSER.png",
+  "cards/GHOST.png",
+  "cards/GHOST_2.png",
+  "cards/GOLD_RUSH.png",
+  "cards/GRAVE_ROBBER.png",
+  "cards/GRIZZLY.png",
+  "cards/GUITAR.png",
+  "cards/HAWKEN.png",
+  "cards/HEAVY_GRUB.png",
+  "cards/HIDEOUT.png",
+  "cards/HOWITZER.png",
+  "cards/INDIANS.png",
+  "cards/INDIAN_GUIDE.png",
+  "cards/IRON_PLATE.png",
+  "cards/JACKALOPE.png",
+  "cards/JAIL.png",
+  "cards/KNIFE.png",
+  "cards/KNIFE_REVOLVER.png",
+  "cards/LAST_CALL.png",
+  "cards/LAST_WILL.png",
+  "cards/LEMAT.png",
+  "cards/LEMAT_2.png",
+  "cards/MAP.png",
+  "cards/MIRAGE.png",
+  "cards/MISSED.png",
+  "cards/MISSED_2.png",
+  "cards/MOLOTOV.png",
+  "cards/MONEY_BAG.png",
+  "cards/MOST_WANTED.png",
+  "cards/MUSTANG.png",
+  "cards/NEXT_STOP.png",
+  "cards/ON_THE_HOUSE.png",
+  "cards/PACK_MULE.png",
+  "cards/PANIC.png",
+  "cards/PARDNER.png",
+  "cards/PEPPERBOX.png",
+  "cards/POKER.png",
+  "cards/PONY_EXPRESS.png",
+  "cards/PUNCH.png",
+  "cards/QUICK_SHOT.png",
+  "cards/RAG_TIME.png",
+  "cards/RATTLESNAKE.png",
+  "cards/REFUND.png",
+  "cards/RELOAD.png",
+  "cards/REMINGTON.png",
+  "cards/REV_CARABINE.png",
+  "cards/RHUM.png",
+  "cards/RUST.png",
+  "cards/SACRIFICE.png",
+  "cards/SALOON.png",
+  "cards/SAVED.png",
+  "cards/SAVED_2.png",
+  "cards/SCHOFIELD.png",
+  "cards/SCOPE.png",
+  "cards/SCORPION.png",
+  "cards/SCRAPPER.png",
+  "cards/SHOT.png",
+  "cards/SHOTGUN.png",
+  "cards/SHYLOCK.png",
+  "cards/SLOCUM.png",
+  "cards/SOMBRERO.png",
+  "cards/SPRINGFIELD.png",
+  "cards/SQUAW.png",
+  "cards/STAGECOACH.png",
+  "cards/STAMPEDE.png",
+  "cards/STRONGBOX.png",
+  "cards/SWITCH.png",
+  "cards/TARANTULA_JUICE.png",
+  "cards/TAXMAN.png",
+  "cards/TEN_GALLON_HAT.png",
+  "cards/TEQUILA.png",
+  "cards/TOMAHAWK.png",
+  "cards/TORNADO.png",
+  "cards/TORNADO_2.png",
+  "cards/TRAIN_ROBBERY.png",
+  "cards/TRAP.png",
+  "cards/UNION_PACIFIC.png",
+  "cards/VOLCANIC.png",
+  "cards/WAR_PATH.png",
+  "cards/WATER_TOWER.png",
+  "cards/WELLS_FARGO.png",
+  "cards/WHISKY.png",
+  "cards/WINCHESTER.png",
+  "felt/0_oval.jpg",
+  "felt/0_plain.jpg",
+  "felt/1_oval.jpg",
+  "felt/1_plain.jpg",
+  "felt/2_oval.jpg",
+  "felt/2_plain.jpg",
+  "felt/3_oval.jpg",
+  "felt/3_plain.jpg",
+  "felt/4_oval.jpg",
+  "felt/4_plain.jpg",
+  "felt/5_oval.jpg",
+  "felt/5_plain.jpg",
+  "glyph/1carta.png",
+  "glyph/2carte.png",
+  "glyph/3carte.png",
+  "glyph/allontana.png",
+  "glyph/avvicina.png",
+  "glyph/bang.png",
+  "glyph/barile.png",
+  "glyph/birra.png",
+  "glyph/dinamite.png",
+  "glyph/duello.png",
+  "glyph/emporio.png",
+  "glyph/gittata1.png",
+  "glyph/gittata2.png",
+  "glyph/gittata3.png",
+  "glyph/gittata4.png",
+  "glyph/gittata5.png",
+  "glyph/indianiAlt.png",
+  "glyph/mancato.png",
+  "glyph/prigione.png",
+  "glyph/qualsiasi.png",
+  "glyph/raggiungibile.png",
+  "glyph/saloon.png",
+  "glyph/scarta.png",
+  "glyph/tagDinamite.png",
+  "glyph/tagFortuna.png",
+  "glyph/tagIndiani.png",
+  "glyph/tutti.png",
+  "glyph/volcanic.png",
+  "glyph/whisky.png",
+  "help/English/bluecards.html",
+  "help/English/bluecards_banner.html",
+  "help/English/browncards.html",
+  "help/English/browncards_banner.html",
+  "help/English/characters.html",
+  "help/English/characters_banner.html",
+  "help/English/credits.html",
+  "help/English/greencards.html",
+  "help/English/greencards_banner.html",
+  "help/English/interface.html",
+  "help/English/roles.html",
+  "help/English/roles_banner.html",
+  "help/English/rules.html",
+  "help/English/specialcards.html",
+  "help/English/specialcards_banner.html",
+  "help/_bang_emoticons.png",
+  "help/_bang_network_warning.png",
+  "help/_bang_peeking.png",
+  "help/_bang_table.png",
+  "help/_bang_tactics.png",
+  "help/_encyclopedia_blu_barile.png",
+  "help/_encyclopedia_blu_binocolo.png",
+  "help/_encyclopedia_blu_dinamite.png",
+  "help/_encyclopedia_blu_mirino.png",
+  "help/_encyclopedia_blu_mustang.png",
+  "help/_encyclopedia_blu_prigione.png",
+  "help/_encyclopedia_blu_remington.png",
+  "help/_encyclopedia_blu_revCarabine.png",
+  "help/_encyclopedia_blu_riparo.png",
+  "help/_encyclopedia_blu_schofield.png",
+  "help/_encyclopedia_blu_volcanic.png",
+  "help/_encyclopedia_blu_winchester.png",
+  "help/_encyclopedia_marrone_bang.png",
+  "help/_encyclopedia_marrone_birra.png",
+  "help/_encyclopedia_marrone_catBalou.png",
+  "help/_encyclopedia_marrone_diligenza.png",
+  "help/_encyclopedia_marrone_duello.png",
+  "help/_encyclopedia_marrone_emporio.png",
+  "help/_encyclopedia_marrone_gatling.png",
+  "help/_encyclopedia_marrone_indiani.png",
+  "help/_encyclopedia_marrone_mancato.png",
+  "help/_encyclopedia_marrone_panico.png",
+  "help/_encyclopedia_marrone_pugno.png",
+  "help/_encyclopedia_marrone_ragtime.png",
+  "help/_encyclopedia_marrone_rissa.png",
+  "help/_encyclopedia_marrone_saloon.png",
+  "help/_encyclopedia_marrone_schivata.png",
+  "help/_encyclopedia_marrone_springfield.png",
+  "help/_encyclopedia_marrone_tequila.png",
+  "help/_encyclopedia_marrone_wellsfargo.png",
+  "help/_encyclopedia_marrone_whisky.png",
+  "help/_encyclopedia_neutro_fuorilegge.png",
+  "help/_encyclopedia_neutro_rinnegato.png",
+  "help/_encyclopedia_neutro_sceriffo.png",
+  "help/_encyclopedia_neutro_vice.png",
+  "help/_encyclopedia_personaggio_BillNoface.png",
+  "help/_encyclopedia_personaggio_CalamityJanet.png",
+  "help/_encyclopedia_personaggio_ClausTheSaint.png",
+  "help/_encyclopedia_personaggio_ElenaFuente.png",
+  "help/_encyclopedia_personaggio_GregDigger.png",
+  "help/_encyclopedia_personaggio_HerbHunter.png",
+  "help/_encyclopedia_personaggio_PaulRegret.png",
+  "help/_encyclopedia_personaggio_PedroRamirez.png",
+  "help/_encyclopedia_personaggio_PixiePete.png",
+  "help/_encyclopedia_personaggio_RoseDoolan.png",
+  "help/_encyclopedia_personaggio_SeanMallory.png",
+  "help/_encyclopedia_personaggio_TequilaJoe.png",
+  "help/_encyclopedia_personaggio_VultureSam.png",
+  "help/_encyclopedia_personaggio_WillytheKid.png",
+  "help/_encyclopedia_verde_bibbia.png",
+  "help/_encyclopedia_verde_borraccia.png",
+  "help/_encyclopedia_verde_canCan.png",
+  "help/_encyclopedia_verde_cappello.png",
+  "help/_encyclopedia_verde_conestoga.png",
+  "help/_encyclopedia_verde_derringer.png",
+  "help/_encyclopedia_verde_fuciledaCaccia.png",
+  "help/_encyclopedia_verde_howitzer.png",
+  "help/_encyclopedia_verde_pepperBox.png",
+  "help/_encyclopedia_verde_placcadiFerro.png",
+  "help/_encyclopedia_verde_ponyExpress.png",
+  "help/_encyclopedia_verde_pugnale.png",
+  "help/_encyclopedia_verde_sombrero.png",
+  "help/_glyph_1carta.png",
+  "help/_glyph_2carte.png",
+  "help/_glyph_3carte.png",
+  "help/_glyph_allontana.png",
+  "help/_glyph_avvicina.png",
+  "help/_glyph_bang.png",
+  "help/_glyph_birra.png",
+  "help/_glyph_gittata1.png",
+  "help/_glyph_mancato.png",
+  "help/_glyph_qualsiasi.png",
+  "help/_glyph_raggiungibile.png",
+  "help/_glyph_scarta.png",
+  "help/_glyph_tagDinamite.png",
+  "help/_glyph_tagFortuna.png",
+  "help/_glyph_tutti.png",
+  "help/_icona_1carta.png",
+  "help/_icona_bang.png",
+  "help/_icona_mancato.png",
+  "help/_icona_tagDinamite.png",
+  "help/_icona_tagFortuna.png",
+  "help/_istruzioni_carta.png",
+  "help/_logo_dvgames.png",
+  "help/_logo_palzoun_350.png",
+  "help/_logo_spinvector_350.png",
+  "help/bang.css",
+  "help/bang_specific.css",
+  "help/de/bluecards.html",
+  "help/de/bluecards_banner.html",
+  "help/de/browncards.html",
+  "help/de/browncards_banner.html",
+  "help/de/characters.html",
+  "help/de/characters_banner.html",
+  "help/de/credits.html",
+  "help/de/greencards.html",
+  "help/de/greencards_banner.html",
+  "help/de/interface.html",
+  "help/de/roles.html",
+  "help/de/roles_banner.html",
+  "help/de/rules.html",
+  "help/de/specialcards.html",
+  "help/de/specialcards_banner.html",
+  "help/es/bluecards.html",
+  "help/es/bluecards_banner.html",
+  "help/es/browncards.html",
+  "help/es/browncards_banner.html",
+  "help/es/characters.html",
+  "help/es/characters_banner.html",
+  "help/es/credits.html",
+  "help/es/greencards.html",
+  "help/es/greencards_banner.html",
+  "help/es/interface.html",
+  "help/es/roles.html",
+  "help/es/roles_banner.html",
+  "help/es/rules.html",
+  "help/es/specialcards.html",
+  "help/es/specialcards_banner.html",
+  "help/fr/bluecards.html",
+  "help/fr/bluecards_banner.html",
+  "help/fr/browncards.html",
+  "help/fr/browncards_banner.html",
+  "help/fr/characters.html",
+  "help/fr/characters_banner.html",
+  "help/fr/credits.html",
+  "help/fr/greencards.html",
+  "help/fr/greencards_banner.html",
+  "help/fr/interface.html",
+  "help/fr/roles.html",
+  "help/fr/roles_banner.html",
+  "help/fr/rules.html",
+  "help/fr/specialcards.html",
+  "help/fr/specialcards_banner.html",
+  "help/it/bluecards.html",
+  "help/it/bluecards_banner.html",
+  "help/it/browncards.html",
+  "help/it/browncards_banner.html",
+  "help/it/characters.html",
+  "help/it/characters_banner.html",
+  "help/it/credits.html",
+  "help/it/greencards.html",
+  "help/it/greencards_banner.html",
+  "help/it/interface.html",
+  "help/it/roles.html",
+  "help/it/roles_banner.html",
+  "help/it/rules.html",
+  "help/it/specialcards.html",
+  "help/it/specialcards_banner.html",
+  "help/vi/bluecards.html",
+  "help/vi/browncards.html",
+  "help/vi/greencards.html",
+  "help/vi/roles.html",
+  "help/vi/rules.html",
+  "hud/bang.png",
+  "hud/burst.png",
+  "hud/click.png",
+  "hud/duel.png",
+  "hud/dynamite.png",
+  "hud/emote_angry.png",
+  "hud/emote_deputy.png",
+  "hud/emote_happy.png",
+  "hud/emote_outlaw.png",
+  "hud/emote_renegade.png",
+  "hud/emote_trophy.png",
+  "hud/jail.png",
+  "hud/luck.png",
+  "hud/missed.png",
+  "hud/puff.png",
+  "hud/reticle.png",
+  "hud/role_deputy.png",
+  "hud/role_outlaw.png",
+  "hud/role_renegade.png",
+  "hud/role_sheriff.png",
+  "hud/streak.png",
+  "hud/targeted.png",
+  "menu/help_blueCards.png",
+  "menu/help_brownCards.png",
+  "menu/help_characters.png",
+  "menu/help_greenCards.png",
+  "menu/help_interface.png",
+  "menu/help_roles.png",
+  "menu/help_rules.png",
+  "menu/help_specialCards.png",
+  "menu/loading.png",
+  "menu/main.png",
+  "menu/main_help_0.png",
+  "menu/main_help_1.png",
+  "menu/main_play_0.png",
+  "menu/main_play_1.png",
+  "music/duello_loop.m4a",
+  "music/gameplay_loop.m4a",
+  "music/gameplay_loop_casino.m4a",
+  "music/gameplay_loop_osteria.m4a",
+  "music/menu_loop.m4a",
+  "portrait/ALEXANDER_NOON.png",
+  "portrait/AL_PREACHER.png",
+  "portrait/ANNIE_VERSARY.png",
+  "portrait/APACHE_KID.png",
+  "portrait/BART_CASSIDY.png",
+  "portrait/BASS_GREEVES.png",
+  "portrait/BELLE_STAR.png",
+  "portrait/BENNY_BRAWLER.png",
+  "portrait/BIG_SPENCER.png",
+  "portrait/BILL_NOFACE.png",
+  "portrait/BLACK_FLOWER.png",
+  "portrait/BLACK_JACK.png",
+  "portrait/BLOODY_MARY.png",
+  "portrait/CALAMITY_JANET.png",
+  "portrait/CALEB_BREW.png",
+  "portrait/CHUCK_WENGAM.png",
+  "portrait/CLAUS_THE_SAINT.png",
+  "portrait/COLORADO_BILL.png",
+  "portrait/DER_SPOT_BURST_RINGER.png",
+  "portrait/DOC_HOLYDAY.png",
+  "portrait/DON_BELL.png",
+  "portrait/DUTCH_WILL.png",
+  "portrait/ELENA_FUENTE.png",
+  "portrait/EL_GRINGO.png",
+  "portrait/EMILIANO.png",
+  "portrait/EVAN_BABBIT.png",
+  "portrait/EVELYN_SHEBANG.png",
+  "portrait/FLINT_WESTWOOD.png",
+  "portrait/FRANKIE_CANTON.png",
+  "portrait/GARY_LOOTER.png",
+  "portrait/GREG_DIGGER.png",
+  "portrait/GREYGORY_DECK.png",
+  "portrait/HENRY_BLOCK.png",
+  "portrait/HERB_HUNTER.png",
+  "portrait/JACKY_MURIETA.png",
+  "portrait/JESSE_JONES.png",
+  "portrait/JIMMY_TEXAS.png",
+  "portrait/JOHNNY_KISCH.png",
+  "portrait/JOHN_PAIN.png",
+  "portrait/JOSEY_STRONG.png",
+  "portrait/JOSE_DELGADO.png",
+  "portrait/JOSH_MCCLOUD.png",
+  "portrait/JOSIAH_TUNG.png",
+  "portrait/JOURDONNAIS.png",
+  "portrait/JULIE_CUTTER.png",
+  "portrait/KIT_CARLSON.png",
+  "portrait/LEE_VAN_KLIFF.png",
+  "portrait/LEMONADE_JIM.png",
+  "portrait/LT_MICAIAH.png",
+  "portrait/LUCKY_DUKE.png",
+  "portrait/MADAME_YTO.png",
+  "portrait/MANUELITA.png",
+  "portrait/MEXICALI_KID.png",
+  "portrait/MICK_DEFENDER.png",
+  "portrait/MOLLY_STARK.png",
+  "portrait/MS_ABIGAIL.png",
+  "portrait/PAT_BRENNAN.png",
+  "portrait/PAUL_REGRET.png",
+  "portrait/PEDRO_RAMIREZ.png",
+  "portrait/PIXIE_PETE.png",
+  "portrait/PRETTY_LUZENA.png",
+  "portrait/RADDIE_SNAKE.png",
+  "portrait/RAY_OWE.png",
+  "portrait/RED_RINGO.png",
+  "portrait/ROSE_DOOLAN.png",
+  "portrait/SALVO_THE_SHOOTER.png",
+  "portrait/SANCHO.png",
+  "portrait/SEAN_MALLORY.png",
+  "portrait/SGT_BLAZE.png",
+  "portrait/SHADE_OCONNOR.png",
+  "portrait/SHANGO_BROTHERS.png",
+  "portrait/SID_KETCHUM.png",
+  "portrait/SIMEON_PICOS.png",
+  "portrait/SLAB_THE_KILLER.png",
+  "portrait/STEVE_TENGO.png",
+  "portrait/SUZY_LAFAYETTE.png",
+  "portrait/TEQUILA_JOE.png",
+  "portrait/TEREN_KILL.png",
+  "portrait/TUCO_FRANZISKANER.png",
+  "portrait/UNCLE_WILL.png",
+  "portrait/VERA_CUSTER.png",
+  "portrait/VULTURE_SAM.png",
+  "portrait/WILLY_THE_KID.png",
+  "portrait/YOUL_GRINNER.png",
+  "portrait/ZIPPY_ROY.png",
+  "portrait/tombstone.png",
+  "sfx/achiev_bar_enter.wav",
+  "sfx/achiev_bar_exit.wav",
+  "sfx/bad_luck.wav",
+  "sfx/beer.wav",
+  "sfx/bible.wav",
+  "sfx/binocular.wav",
+  "sfx/brawl.wav",
+  "sfx/bullet_zip.wav",
+  "sfx/card_comes.wav",
+  "sfx/card_goes_away.wav",
+  "sfx/card_mescola.wav",
+  "sfx/card_raise.wav",
+  "sfx/card_switch.wav",
+  "sfx/card_turn.wav",
+  "sfx/character_ability_off.wav",
+  "sfx/character_ability_on.wav",
+  "sfx/click.wav",
+  "sfx/click_off.wav",
+  "sfx/click_on.wav",
+  "sfx/cock_remington.wav",
+  "sfx/cock_rev_carabine.wav",
+  "sfx/cock_schofield.wav",
+  "sfx/cock_volcanic.wav",
+  "sfx/cock_winchester.wav",
+  "sfx/colt45_bang_1.wav",
+  "sfx/death.wav",
+  "sfx/duel.wav",
+  "sfx/dynamite_fuse_blow.wav",
+  "sfx/dynamite_fuse_off.wav",
+  "sfx/dynamite_passed.wav",
+  "sfx/emporio.wav",
+  "sfx/fufu.wav",
+  "sfx/good_luck.wav",
+  "sfx/hideout.wav",
+  "sfx/horse.wav",
+  "sfx/indians.wav",
+  "sfx/ironplate.wav",
+  "sfx/jail_lock.wav",
+  "sfx/jail_played.wav",
+  "sfx/jail_unlock.wav",
+  "sfx/jingle_lose.wav",
+  "sfx/jingle_unlock.wav",
+  "sfx/jingle_win.wav",
+  "sfx/knife.wav",
+  "sfx/life_minus.wav",
+  "sfx/life_plus.wav",
+  "sfx/menu_click.wav",
+  "sfx/missed.wav",
+  "sfx/missed_hat.wav",
+  "sfx/page_back.wav",
+  "sfx/page_back2.wav",
+  "sfx/pass_turn.wav",
+  "sfx/pass_turn_slider.wav",
+  "sfx/pistol_cock.wav",
+  "sfx/punch.wav",
+  "sfx/ring.wav",
+  "sfx/roulette.wav",
+  "sfx/scope.wav",
+  "sfx/shot_colt45.wav",
+  "sfx/shot_derringer.wav",
+  "sfx/shot_gatling.wav",
+  "sfx/shot_hound_rifle.wav",
+  "sfx/shot_howitzer.wav",
+  "sfx/shot_pepperbox.wav",
+  "sfx/shot_remington.wav",
+  "sfx/shot_rev_carabine.wav",
+  "sfx/shot_schofield.wav",
+  "sfx/shot_springfield.wav",
+  "sfx/shot_volcanic.wav",
+  "sfx/shot_winchester.wav",
+  "sfx/snare_roll.wav",
+  "sfx/stagecoach.wav",
+  "sfx/tac.wav",
+  "sfx/target_comes.wav",
+  "sfx/tic.wav",
+  "sfx/trillo.wav"
+ ],
+ "tombstone": "portrait/tombstone.png"
+}

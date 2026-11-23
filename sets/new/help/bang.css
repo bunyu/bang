@@ -1,0 +1,291 @@
+﻿/*
+rosso: e45b65
+blu: 878cc8
+verde: b8c510
+marrone: e4bf6a
+colore testo normale: ffffff
+colore sfondo encyclopedia: 1d2019
+*/
+
+/*
+*
+{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+*/
+
+ul, ol {
+	margin: 0px;
+}
+/* normale */
+body {
+	/*colore del testo normale*/
+	color: #ffffff;
+
+	/*colore sfondo*/
+	background-color: transparent;
+	/*background-image: url('___DEBUG_BG.gif');*/
+/*	background-color: #404040; /* basta commentare questo per rimettere trasparente */
+
+	/*carattere testo*/
+	font-family: "Helvetica Neue", "Helvetica", "Sans-Serif";
+
+	/*dimensione testo*/
+	font-size: 12px;
+
+	text-shadow: 0px -1px 0px #000000;
+	
+	margin: 0px;
+	
+	width: 480px;
+	max-width: 480px;
+	min-width: 480px;
+}
+
+.rules, .interface {
+	background-color: transparent;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h1, h2, h3 {
+	margin: 0px;
+}
+
+h1 {
+	font-size: 21px;
+	font-weight: bold;
+	padding-top: 12px;
+	padding-bottom: 5px;
+}	
+
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 8px;
+	padding-bottom: 3px;
+	/*
+	text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+	*/
+}
+
+.title {
+	font-size: 14px;
+	font-weight: bold;
+	position: relative;
+	left: -25px;
+	padding-top: 8px;
+	padding-bottom: 3px;
+	text-transform: uppercase;
+}
+
+h3 {
+	display: inline;
+	font-size: 18px;
+	font-weight: bold;
+	/*
+	text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+	*/
+}
+
+/* grassetto */
+b {
+	/*colore del testo grassetto*/
+	font-weight: bold;
+}
+
+td {
+	vertical-align: top;
+}
+
+.blue, .brown, .green {
+	font-weight: bold;
+}
+
+.blue {
+	color: #878cc8;
+}
+
+.brown {
+	color: #e4bf6a;
+}
+
+.green {
+	color: #b8c510;
+}
+
+.outLineRed {
+	text-shadow: -1px 0px 0px #e45b65, 1px 0px 0px #e45b65, 0px -1px 0px #e45b65, 0px 1px 0px #e45b65;
+}
+
+.outLineBlue {
+	text-shadow: -1px 0px 0px #878cc8, 1px 0px 0px #878cc8, 0px -1px 0px #878cc8, 0px 1px 0px #878cc8;
+}
+
+.outLineGreen {
+	text-shadow: -1px 0px 0px #b8c510, 1px 0px 0px #b8c510, 0px -1px 0px #b8c510, 0px 1px 0px #b8c510;
+}
+
+.outLineBrown {
+	text-shadow: -1px 0px 0px #e4bf6a, 1px 0px 0px #e4bf6a, 0px -1px 0px #e4bf6a, 0px 1px 0px #e4bf6a;
+}
+
+.outLineThick {
+	text-shadow:
+		0px 0px 3px #e45b65,
+		-1px -1px 0px #e45b65, -1px 1px 0px #e45b65, 1px 1px 0px #e45b65, 1px -1px 0px #e45b65,
+		0px -2px 0px #e45b65, 0px 2px 0px #e45b65, -2px 0px 0px #e45b65, 2px 0px 0px #e45b65;
+}
+
+.introFrame {
+	width: 480px;
+	height: 208px;
+	min-width: 480px;
+	min-height: 208px;
+	overflow: hidden;
+	display: block;
+}
+
+.listFrame {
+	width: 480px;
+	height: auto;
+	display: block;
+}
+
+.introBox {
+	position: relative;
+	background-repeat: no-repeat;
+	width: 480px;
+	height: 208px;
+	min-width: 480px;
+	min-height: 208px;
+	position: relative;
+}
+
+.introBoxInner {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 470px;
+	height: 200px;
+}
+
+.characterBox, .roleBox, .cardBox, .brownCardBox, .blueCardBox, .greenCardBox {
+/*
+	background-image: url('_encyclopedia_test.png');
+	*/
+	position: relative;
+	width: 480px;
+	min-width: 480px;
+	min-height: 104px;
+	height: 104px;
+	overflow: hidden;
+	line-height: 120%;
+}
+
+.characterPic, .rolePic, .cardPic {
+	float: left;
+	width: 104px;
+	height: 104px;
+}
+
+.icon {
+	position: relative;
+	top: 3px;
+}
+.dummy {
+	background-image: url('_encyclopedia_over.png');
+	width: 0px;
+	height: 0px;
+	overflow: hidden;
+}
+.characterDescription, .roleDescription, .cardDescription {
+	width: 470px;
+	height: 60px;
+}
+
+.genericBackground
+{
+	background-image: url('_neutro_sfondo.png');
+}
+
+.creditsBackground
+{
+	background-image: url('_credits_bgnd.png');
+}
+
+.creditsRoll
+{
+	width: 480px;
+	min-width: 480px;
+	text-align: center;
+}
+
+.creditsName
+{
+	font-weight: bold; 
+	padding-bottom: 6px;
+}
+
+.blueBanner
+{
+	background-image: url('_encyclopedia_blu_intestazione.png');
+}
+
+.greenBanner
+{
+	background-image: url('_encyclopedia_verde_intestazione.png');
+}
+
+.brownBanner
+{
+	background-image: url('_encyclopedia_marrone_intestazione.png');
+}
+
+.genericBanner
+{
+	background-image: url('_encyclopedia_neutro_intestazione.png');
+}
+
+.characterBanner
+{
+	background-image: url('_encyclopedia_personaggio_intestazione.png');
+}
+
+.difficulty {
+	background-color: transparent;
+}
+
+.difficultyCell {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.multiplayer, .expansion {
+	background-color: transparent;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.right {
+	text-align: right;
+}
+
+.click_only
+{
+	display: none;
+}
+
+.tap_only
+{
+	display: none;
+}
+
+/*
+rosso: e45b65
+blu: 878cc8
+verde: b8c510
+
+*/

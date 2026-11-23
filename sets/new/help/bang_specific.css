@@ -1,0 +1,48 @@
+a:link {
+	color:#FFFFFF;      /* unvisited link */
+	text-decoration:none;
+}
+
+a:visited {
+	color:#FFFFFF;  /* visited link */
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFFFFF;  /* mouse over link */
+	text-decoration:none;
+}
+
+a:active {
+	color:#FFFFFF;  /* selected link */
+	text-decoration:none;
+}
+
+.centeredImage {
+	width: 460px;
+	height: 307px;
+}
+
+.introFrame {
+	height: 104px;
+	min-height: 104px;
+}
+
+.introBox {
+	height: 104px;
+	min-height: 104px;
+}
+
+.introBoxInner {
+	height: 100px;
+}
+
+.click_only
+{
+	display: none;
+}
+
+.tap_only
+{
+	display: inline;
+}
